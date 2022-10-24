@@ -1,0 +1,133 @@
+body{
+    background-color: rgba(214, 180, 246, 0.636);
+}
+header{
+    display: flex;
+    max-width: 100%;
+    position: fixed;
+    top: 0;
+}
+#headebody{
+    background-color: rgba(214, 180, 246, 0.636);
+}
+header{
+    display: flex;
+    max-width: 100%;
+    position: fixed;
+    top: 0;
+}
+#header-img{
+    max-width: 20%;
+    max-height: 10%;
+}
+nav{
+    margin-left: 40%;
+    width: 40%;
+    background-color: rgba(214, 180, 246, 0.636);
+}
+.nav-link{
+    padding-left: 10%;
+    text-decoration: none;
+    color: black;
+}
+#lead{
+    text-align: center;
+    margin-top: 7%;
+}
+#email{
+    display: block;
+    margin: auto;
+    height: 5%;
+    width: 15%;
+}
+#submit{
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+    background-color: gold;
+    border: 0;
+    width: 9%;
+    color: black;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+#howitworks{
+    margin-top: 3%;
+    margin-left: 20%;
+}
+#howitworks div{
+    padding-top: 10%;
+}
+iframe{
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+}
+#pricing{
+    margin-top: 10%;
+    display: flex;
+    margin-left: 5%;
+}
+.pricetag{
+    border: 1px solid black;
+    width: 25%;
+    height: 40vh;
+    margin-left: 5%;
+}
+.pricetag h5{
+    text-align: center;
+    font-size: 22px;
+}
+.pricetag b{
+    padding-left: 150px;
+    font-size: 22px;
+}
+.pricetag p{
+    text-align: center;
+    font-size: 22px;
+}r-img{
+    max-width: 20%;
+    max-height: 10%;
+}
+nav{
+    margin-left: 40%;
+    width: 40%;
+}
+.nav-link{
+    padding-left: 10%;
+    text-decoration: none;
+    color: black;
+}
+#lead{
+    text-align: center;
+    margin-top: 7%;
+}
+#email{
+    display: block;
+    margin: auto;
+    height: 5%;
+    width: 15%;
+}
+#submit{
+    display: block;
+    margin: auto;
+    margin-top: 2%;
+    background-color: gold;
+    border: 0;
+    width: 9%;
+    color: black;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+#howitworks{
+    margin-top: 3%;
+    margin-left: 20%;
+}
+#howitworks div{
+    padding-top: 10%;
+}
+@media screen and (max-width: 400px) {
+    body{
+        width: 10px;
+    }
+}
